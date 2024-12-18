@@ -1,2 +1,3 @@
-1: first creat a new kyt like "ssh-keygen -t ed25519 -C "myEmail@gmail.com" and put your git email id;
+1: first creat a new kye like "ssh-keygen -t ed25519 -C "myEmail@gmail.com" and put your git email id;
 2: then put this line ls ~/.ssh 
+3: then put To confirm further, type in "ls -l ~/.ssh" 'this command  will give some details.
